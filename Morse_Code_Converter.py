@@ -11,3 +11,7 @@ morse_code = {
     '6': '-....','7': '--...','8': '---..','9': '----.',
     ' ': '/'  # space between words in Morse
 }
+
+text = input("Enter a pharse to convert to Morse Code: ").lower()
+
+
